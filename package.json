@@ -1,0 +1,24 @@
+{
+  "name": "javascript30",
+  "version": "1.0.0",
+  "description": "Wes Bos' Javascript 30 by Nick March",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmarch213/JavaScript30.git"
+  },
+  "author": "Nicholas March",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nmarch213/JavaScript30/issues"
+  },
+  "homepage": "https://github.com/nmarch213/JavaScript30#readme",
+  "devDependencies": {
+    "eslint": "^5.7.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
